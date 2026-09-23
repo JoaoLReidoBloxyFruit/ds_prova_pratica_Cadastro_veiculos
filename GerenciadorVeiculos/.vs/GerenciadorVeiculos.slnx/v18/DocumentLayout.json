@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|c:\\users\\joao.leite\\source\\repos\\gerenciadorveiculos\\gerenciadorveiculos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|solutionrelative:gerenciadorveiculos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|c:\\users\\joao.leite\\source\\repos\\gerenciadorveiculos\\gerenciadorveiculos\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|solutionrelative:gerenciadorveiculos\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|c:\\users\\joao.leite\\source\\repos\\gerenciadorveiculos\\gerenciadorveiculos\\veiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|solutionrelative:gerenciadorveiculos\\veiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|c:\\users\\joao.leite\\source\\repos\\gerenciadorveiculos\\gerenciadorveiculos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|solutionrelative:gerenciadorveiculos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|c:\\users\\joao.leite\\source\\repos\\gerenciadorveiculos\\gerenciadorveiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|solutionrelative:gerenciadorveiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|c:\\users\\joao.leite\\source\\repos\\gerenciadorveiculos\\gerenciadorveiculos\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|solutionrelative:gerenciadorveiculos\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|c:\\users\\joao.leite\\source\\repos\\gerenciadorveiculos\\gerenciadorveiculos\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01D2687-EE08-4345-B112-077D5DA3E5FA}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|solutionrelative:gerenciadorveiculos\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\Moto.cs",
+              "RelativeDocumentMoniker": "GerenciadorVeiculos\\Moto.cs",
+              "ToolTip": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\Moto.cs",
+              "RelativeToolTip": "GerenciadorVeiculos\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T16:52:02.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\Carro.cs",
+              "RelativeDocumentMoniker": "GerenciadorVeiculos\\Carro.cs",
+              "ToolTip": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\Carro.cs",
+              "RelativeToolTip": "GerenciadorVeiculos\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T16:51:24.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\Veiculo.cs",
+              "RelativeDocumentMoniker": "GerenciadorVeiculos\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\Veiculo.cs",
+              "RelativeToolTip": "GerenciadorVeiculos\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T16:51:06.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\Form1.cs",
+              "RelativeDocumentMoniker": "GerenciadorVeiculos\\Form1.cs",
+              "ToolTip": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\Form1.cs",
+              "RelativeToolTip": "GerenciadorVeiculos\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T16:49:46.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeiculoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\VeiculoDAO.cs",
+              "RelativeDocumentMoniker": "GerenciadorVeiculos\\VeiculoDAO.cs",
+              "ToolTip": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\VeiculoDAO.cs",
+              "RelativeToolTip": "GerenciadorVeiculos\\VeiculoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T16:47:39.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexaoBD.cs",
+              "DocumentMoniker": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\ConexaoBD.cs",
+              "RelativeDocumentMoniker": "GerenciadorVeiculos\\ConexaoBD.cs",
+              "ToolTip": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\ConexaoBD.cs",
+              "RelativeToolTip": "GerenciadorVeiculos\\ConexaoBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T16:44:03.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\Form1.cs",
+              "RelativeDocumentMoniker": "GerenciadorVeiculos\\Form1.cs",
+              "ToolTip": "C:\\Users\\joao.leite\\source\\repos\\GerenciadorVeiculos\\GerenciadorVeiculos\\Form1.cs [Design]",
+              "RelativeToolTip": "GerenciadorVeiculos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T16:43:29.918Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
